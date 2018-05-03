@@ -1,0 +1,45 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond|Raleway');
+
+@import url('text.css');
+@import url('figures.css');
+
+.bounder {
+	border-top-style: solid;
+	border-bottom-style: solid;
+	padding: 5px 0 5px 0;
+	margin: 10px 0 10px 0;
+	border-width: 1px;
+	overflow: auto;
+	display: inline-block;
+}
+
+.logo {
+	float: left;
+	margin: 0 10px 0 10px;
+	vertical-align: middle;
+}
+
+.bounder-text {
+	overflow:hidden;
+	padding: 0 10px 10px 0;
+}
+
+.new_papers {
+	padding-top: 10px;
+}
+.new_papers p:hover{
+
+  background:#cccccc
+}
+
+.news {
+	padding: 10px;
+	background: rgba(230, 230, 230, 0.8);
+	border-style: solid;
+	border-color:#080808;
+	border-radius: 5px;
+}
