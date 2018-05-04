@@ -1,0 +1,96 @@
+- event: a
+  date: 2018-05-17
+  duration: 0.5
+  timestart: '9:00am'
+  title: Introductions
+- event: b
+  date: 2018-05-17
+  description: "Using a set of circles for each different data resource, pass yarn back and forth, tag the resources and explain how or why we might want to link the resources."
+  duration: 1
+  timestart: '9:30am'
+  title: Icebreaker
+  image: images/noun_954752_cc.svg
+- event: c
+  date: 2018-05-17
+  description: "Discuss some of the issues."
+  duration: 0.5
+  timestart: '10:30am'
+  title: "Icebreaker debrief"
+  image: images/noun_954752_cc.svg
+- event: d
+  date: 2018-05-17
+  duration: 0.5
+  timestart: '11:00am'
+  title: "Coffee Break"
+  image: images/noun_975695_cc.svg
+- event: e
+  date: 2018-05-17
+  description: "Talk about how users might interact with the tools, how we can visualize this, how resources can work with the tool."
+  duration: 1
+  timestart: '11:30am'
+  title: "User workflow"
+- event: f
+  date: 2018-05-17
+  duration: 1
+  timestart: '12:30pm'
+  title: Lunch
+  image: images/noun_928731_cc.svg
+- event: g
+  date: 2018-05-17
+  description: "Based on the data resources and connections, identify workflows that help link the resources and provide metadata to describe these links."
+  duration: 1.5
+  timestart: '1:30pm'
+  title: "Finding links between data resources"
+  image: images/noun_954752_cc.svg
+- event: h
+  date: 2018-05-17
+  duration: 0.5
+  timestart: '3:00pm'
+  title: "Coffee Break"
+  image: images/noun_975695_cc.svg
+- event: i
+  date: 2018-05-17
+  description: "Discuss general issues, resources required, issues discovered."
+  duration: 1
+  timestart: '3:30pm'
+  title: "Breakout debrief"
+  image: images/noun_954752_cc.svg
+- event: j
+  date: 2018-05-17
+  description: "Planning the events and work to be accomplished in the next day."
+  duration: 1
+  timestart: '4:30pm'
+  title: "Planning for Tomorrow"
+  image: images/noun_1348341_cc.svg
+- event: k
+  date: 2018-05-18
+  title: "Debrief, Moving Forward"
+  duration: .5
+  timestart: '8:30am'
+  description: 'Kicking off the morning & reviewing the last day.'
+- event: k
+  date: 2018-05-18
+  title: "Documenting and Modeling"
+  duration: 1.5
+  timestart: '9:00am'
+  description: 'Breakouts, modeling the use of links and tools.  Identifying strengths and weaknesses.'
+  image: images/noun_954752_cc.svg
+- event: k
+  date: 2018-05-18
+  title: "Coffee Break"
+  duration: .5
+  timestart: '10:30am'
+  image: images/noun_975695_cc.svg
+- event: l
+  date: 2018-05-18
+  title: "Moving forward"
+  description: 'How do we take this and move forward in a way that is sustainable?'
+  duration: 1
+  timestart: '11:00am'
+  image: images/noun_1348341_cc.svg
+- event: m
+  date: 2018-05-18
+  title: Lunch
+  duration: 1
+  timestart: '12:00pm'
+  image: images/noun_928731_cc.svg

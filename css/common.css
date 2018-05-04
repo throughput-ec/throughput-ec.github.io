@@ -43,3 +43,43 @@
 	border-color:#080808;
 	border-radius: 5px;
 }
+
+.part-name {
+	font-size: 1.2rem;
+	color: rgba(72,202,59, 0.9);
+}
+
+.floating-box {
+    width: 100%;
+    padding-left:5px;
+    padding-right:5px;
+    padding-top:5px;
+    padding-bottom:5px;
+    border: 1px solid; 
+    overflow: hidden;
+    position: relative;
+}
+
+.floating-box:hover{
+  background:#cccccc;
+}
+
+.bio {
+	float: left;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    padding-left: 1%;
+    padding-right: 5px;
+    max-width: 78%;
+    font-size: 0.8em;
+    margins: auto;
+    vertical-align: middle;
+}
+
+.photo {
+	float: right;
+	height: 100%;
+	width: 18%;
+	padding-right: 10px;
+}
