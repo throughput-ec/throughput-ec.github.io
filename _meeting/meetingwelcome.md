@@ -18,6 +18,10 @@ While brokering and data standardization focuses on the managers of data facilit
 
 This meeting brings together researchers from multiple disciplines within the paleogeosciences in an effort to provide a roadmap to <strong>connect data resources through reusable workflows</strong> and to <strong>build working relationships among data managers and users</strong>.
 
+## Meeting Agenda
+
+The [meeting agenda](https://throughput-ec.github.io/meeting/mad_meeting.html) is flexible, but intended to highlight both the diversity of available data resources, and to provide significant opportunity for participants to engage and discuss.
+
 ## Location
 
 <div class="bounder">

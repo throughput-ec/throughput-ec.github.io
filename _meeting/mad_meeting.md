@@ -24,7 +24,7 @@ weight: 1
 	</div>
 </div>
 {% endfor %}
-
+<br>
 <h2>May 18, 2018</h2>
 
 {% for times in daytwo %}
