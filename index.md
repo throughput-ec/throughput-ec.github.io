@@ -33,4 +33,4 @@ Throughput involves a number of participants from universities across the United
 
 ## Activities
 
-See more about throughput-related activities on the [Throughput Activities webpage]().
+See more about throughput-related activities on the [Throughput Activities webpage](https://throughput-ec.github.io/activities.html).

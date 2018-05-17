@@ -2,6 +2,7 @@
 title: Activities
 layout: page
 weight: 1
+permalink: "/activities/"
 ---
 
 # Throughput Activities
