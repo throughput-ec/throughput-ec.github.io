@@ -7,7 +7,6 @@ permalink: "/activities/"
 
 # Throughput Activities
 
-
 <div class="bounder">
 
 {% for meets in site.meeting %}
