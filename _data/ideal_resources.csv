@@ -1,0 +1,126 @@
+1,Landcover 6k
+1,OC3
+1,SISAL
+1,Neotoma
+1,PaleoFire
+2,LIDAR
+2,Geological Map Data
+2,Cultural Data
+2,Forest Fire Data
+3,LacCore
+3,Core Images
+3,Hydrography
+4,TMI
+4,Radiocarbon Data
+5,IGSN
+5,AVO
+6,IEDA
+6,Neotoma
+6,IGSN
+7,IEDA
+7,Magic
+7,OpenCore
+8,P418
+8,ORCID
+9,Radiocarbon Data
+9,Archaeological Data
+10,Tephra Data
+10,Radiocarbon Data
+11,Sample-based Data
+11,IGSN
+12,Archaeological Data
+12,Volcanic Events (BC)
+13,CARD
+13,Cascadia Earthquake Events
+14,CARD
+14,Neotoma
+15,National Geological Map Database
+15,USGS EarthQuake Database
+15,EarthScope
+15,UNAVCO
+16,Neotoma
+17,EarthChem
+17,National Geochron DB
+17,IEDA
+17,SESAR
+18,TMI
+18,Neotoma
+19,LinkedEarth
+19,Neotoma
+19,LacCore
+19,AVO
+19,EarthChem
+20,Neotoma
+20,Card
+20,Radiocarbon Data
+21,Neotoma
+21,ORCID
+22,IODP
+22,Tephra Data
+22,Neotoma
+22,LinkedEarth
+23,PBDB
+23,Neotoma
+23,Global Pollen Project
+23,iDigBio
+23,iNaturalist
+23,TMI
+24,Neotoma
+24,IODP
+25,Neotoma
+25,PRISM
+25,WorldClim
+25,GHCN
+26,Neotoma
+26,EarthChem
+26,Published data
+26,Private DBs
+27,Tephra databases
+28,Tephra databases
+29,IGSN
+29,DOI
+29,ORCID
+30,National Ice Core repository
+30,LacCore
+30,Neotoma
+31,Smithsonian VGP
+31,AVO
+31,Tephra Databases
+32,EarthChem
+32,AVO
+32,TephraBase
+100,USGS water quality portal
+100,National land use layers
+100,hydrologic units
+101,PRISM
+101,Climate records
+101,ecological observations (EcocowDP)
+102,Radiocarbon Data
+103,PBDB
+103,USGS-MR DATA
+103,GeoTimeOntology
+104,ORCID
+104,Neotoma
+104,CSDCO
+105,EarthChen
+105,Macrostrat
+105,MN Geol Survey
+106,Wikipedia
+106,Neotoma
+106,Phylopic
+107,Neotoma
+107,NHMs locality data
+108,SESAR
+108,GenBank
+109,Local Institution Repository
+109,Any other repository
+110,OCD (LacCore)
+110,Surficial geology maps
+110,"EarthChem (geo, seds, water)"
+111,Flyover Country
+111,Field trip guides (e.g. GSA)
+111,Surficial geology maps
+111,Bedrock geology maps
+111,Wikipedia
+111,Rockd checkins
+111,EarthChem
