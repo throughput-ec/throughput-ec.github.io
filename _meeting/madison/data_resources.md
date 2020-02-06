@@ -18,4 +18,9 @@ Data facilities currently involved in the Earth Cube project:
 
 * [CDF Membership](https://www.earthcube.org/workspace/council-data-facilities/council-data-facilities-membership)
 
+## ROpenSci
+
+R focused packages to access and analyze data from open data repositories.
+
+* [rOpenSci website](https://ropensci.org/) and [list of data access packages](https://ropensci.org/packages/).
 

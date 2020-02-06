@@ -9,7 +9,7 @@
 title: Throughput Annotation Database
 email: goring@wisc.edu
 description: > # this means to ignore newlines until "baseurl:"
-  A website for the Throughput annotation database and associated projects.  
+  A website for the Throughput annotation database and associated projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://throughput-ec.github.io" # the base hostname & protocol for your site
 github_username:  throughput-ec
@@ -19,6 +19,8 @@ permalink: /:title/
 markdown: kramdown
 
 collections:
+  projects:
+    output: true
   meeting:
     output: true
 

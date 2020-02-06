@@ -1,5 +1,8 @@
-
-
+---
+layout: page
+layout: default
+weight: 1
+---
 
 # Data Heterogeneity, Data Fragmentation, and Standards Adoption in the Geosciences: Common Challenges and Opportunities
 
